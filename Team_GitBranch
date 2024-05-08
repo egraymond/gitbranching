@@ -1,6 +1,6 @@
 def say_hello():
     # Print a greeting message
-    print("Hello, World!")
+    print("This is a different program - Elias Garlitz")
 
 def say_name():
     print("Mariam")
