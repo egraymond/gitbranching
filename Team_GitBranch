@@ -4,7 +4,7 @@ def say_hello():
 
 def main():
     # Call the say_hello function
-    say_hello()
+    say_hello("Hello, I'm Alfonso!")
 
 if __name__ == "__main__":
     # Call the main function when the script is executed
