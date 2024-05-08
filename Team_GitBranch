@@ -1,6 +1,6 @@
 def say_hello():
     # Print a greeting message
-    print("This is a different program")
+    print("This is a different program - Elias Garlitz")
 
 def main():
     # Call the say_hello function
