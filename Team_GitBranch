@@ -1,1 +1,11 @@
+def say_hello():
+    # Print a greeting message
+    print("Hello, World!")
 
+def main():
+    # Call the say_hello function
+    say_hello()
+
+if __name__ == "__main__":
+    # Call the main function when the script is executed
+    main()
