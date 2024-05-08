@@ -2,10 +2,14 @@ def say_hello():
     # Print a greeting message
     print("Hello, World!")
 
+def say_name():
+    print("Mariam")
+
 def main():
     # Call the say_hello function
-    say_hello("Hello, I am Mike!")
+    say_hello("Hello, I am Mike!"
 
 if __name__ == "__main__":
     # Call the main function when the script is executed
     main()
+
